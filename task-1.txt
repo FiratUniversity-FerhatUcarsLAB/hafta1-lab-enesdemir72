@@ -1,4 +1,58 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No::250541047
+AD-SOYAD:Hüseyin Enes Demir
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+Amaç:Mükemmel Omlet Yapmak
+
+Girdiler:
+
+2 adet yumurta
+
+Bir miktar yağ
+
+Tuz
+
+Tava
+
+Ocak
+
+
+Koşullar:
+
+Tava çok ısınırsa omlet yanar.
+
+Yeterince ısınmazsa pişmez.
+
+
+
+Başla
+Malzemeleri hazırla
+Tavayı ocağa yerleştir
+Ocağı orta ateşe aç
+Yağı tavaya ekle
+Eğer yağ ısındıysa:
+    Yumurtaları kır
+    Tuz ekle
+    Karıştır
+    Omlet katılaşana kadar pişir
+Aksi halde:
+    Biraz daha bekle
+Omlet hazırsa:
+    Tabağa al
+    Servis et
+Bitir
+
+LLM Yardımı:
+
+Bu algoritma, ChatGPT’den alınan yönlendirmeler doğrultusunda hazırlanmıştır.
+Yapay zekâdan fikir alınmış, adımlar öğrenci tarafından düzenlenmiştir.
+
+
+Alternatif Çözüm Yolları
+
+Mikrodalgada omlet yapılabilir.
+
+Farklı baharatlar eklenerek lezzet artırılabilir.
+
+Zamanlayıcı kullanılarak optimum pişme süresi bulunabilir.
+
