@@ -1,4 +1,48 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No::250541047
+AD-SOYAD:Hüseyin Enes Demir
+
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Amaç: Tic-Tac-Toe oyununu kazanmak veya berabere bitirmek.
+
+Girdiler: 3x3 oyun tahtası, X ve O hamleleri
+
+Koşullar: Rakip hamleleri tahmin et, kazanma/engel olma senaryolarını değerlendir
+
+Döngü: Hamleleri sırayla kontrol et
+
+
+
+
+Başla
+Oyun tahtasını başlat
+Sırayla hamle yap
+Eğer kazanma hamlesi varsa:
+    Bu hamleyi yap
+Aksi halde eğer rakip kazanacaksa:
+    Rakibi engelle
+Aksi halde:
+    Orta kareyi veya köşe kareyi seç
+Hamle yapıldıysa:
+    Tahtayı güncelle
+Oyun bitene kadar tekrarla
+Bitir
+
+
+
+Alternatif Çözüm Yolları
+
+Rastgele hamle yapmak → kolay ama kazanma ihtimali düşük
+
+Minimax algoritması kullanmak → optimal strateji sağlar
+
+Sadece defansif oynamak → kaybetmeyi engeller ama kazanmayı garanti etmez
+
+
+
+Bu algoritma ChatGPT yardımıyla hazırlanmıştır.
+ChatGPT, adımların sıralanması ve strateji alternatiflerinin belirlenmesinde rehberlik etmiştir.
+Öğrenci adımları düzenleyip kendi yorumunu eklemiştir.
+
+
