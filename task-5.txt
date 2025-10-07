@@ -1,4 +1,44 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No::250541047
+AD-SOYAD:Hüseyin Enes Demir
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+
+Amaç: En ideal kahveyi demlemek
+Girdiler: Kahve çekirdeği, su, kahve makinesi/tencere, sıcaklık, miktar
+Koşullar: Su çok sıcak olursa kahve yanar, az sıcak olursa tadı eksik olur
+Döngü: Demleme süresini kontrol et, gerekirse tadına bak
+
+
+
+Başla
+Kahve malzemelerini hazırla
+Su miktarını ölç
+Su sıcaklığını kontrol et
+Kahve çekirdeklerini öğüt
+Kahveyi filtreye veya cezveye ekle
+Suyu ekle
+Belirlenen sürede demlenmesini bekle
+Ara sıra karıştır veya tadına bak
+Demleme tamamlandığında fincana dök
+Bitir
+
+
+
+Alternatif Çözüm Yolları
+
+French press kullanmak → daha yoğun aroma
+
+Pour-over yöntemi → daha berrak tat
+
+Espresso makinesi → hızlı ve sert kahve
+
+Soğuk demleme → farklı tat deneyimi
+
+
+
+Bu algoritma ChatGPT (GPT-5) yardımıyla hazırlanmıştır.
+ChatGPT, adımların düzenlenmesi ve alternatif demleme yöntemlerinin belirlenmesinde rehberlik etmiştir.
+Öğrenci adımları düzenleyip kendi yorumunu eklemiştir.
+
+
