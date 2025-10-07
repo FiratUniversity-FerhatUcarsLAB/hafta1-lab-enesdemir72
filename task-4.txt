@@ -1,4 +1,37 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No::250541047
+AD-SOYAD:Hüseyin Enes Demir
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+
+Amaç: Büyük iki sayıyı kağıt-kalem ile doğru ve sistemli şekilde çarpmak
+Girdiler: İki büyük sayı (örn: 3456 × 7892)
+Koşullar: Her basamak doğru hesaplanmalı, taşıma işlemleri unutulmamalı
+Döngü: Basamakları sırayla çarp, taşıma ekle
+
+
+Başla
+İki sayıyı al: sayi1 ve sayi2
+Sayi2'nin her basamağı için:
+    sayi1 ile basamağı çarp
+    Taşma değerini ekle
+    Ara sonucu kaydet
+Tüm basamaklar için işlemi tekrarla
+Ara sonuçları topla
+Sonucu yazdır
+Bitir
+
+
+
+
+Alternatif Çözüm Yolları
+
+Basit uzun çarpma yöntemi → klasik yöntem
+
+Böl ve fethet yaklaşımı (Karatsuba algoritması gibi) → daha hızlı, büyük sayılar için
+
+Hesap makinesi veya bilgisayar programı → hızlı ama manuel değil
+
+Bu algoritma ChatGPT (GPT-5) yardımıyla hazırlanmıştır.
+ChatGPT, adımların düzenlenmesi ve alternatif çarpma yöntemlerinin belirlenmesinde rehberlik etmiştir.
+Öğrenci adımları düzenleyip kendi yorumunu eklemiştir.
