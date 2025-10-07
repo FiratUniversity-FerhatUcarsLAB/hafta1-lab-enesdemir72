@@ -1,4 +1,37 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No::250541047
+AD-SOYAD:Hüseyin Enes Demir
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+Amaç: Öğrencilerin notlarını yüksekten düşüğe doğru sıralamak
+Girdiler: Öğrenci isimleri ve notları
+Koşullar: Notlar eşit olursa alfabetik sıralama yapılabilir
+Döngü: Tüm notları kontrol et, karşılaştır ve sırala
+
+
+Başla
+Öğrenci listesini ve notları al
+Her öğrenci için:
+    Notları karşılaştır
+    Eğer bir öğrenci diğerinden yüksek not aldıysa:
+        Önce onu sıraya koy
+Aynı not varsa:
+    İsimleri alfabetik sırala
+Listeyi tamamlayana kadar tekrarla
+Sıralanmış listeyi göster
+Bitir
+
+
+
+Alternatif Çözüm Yolları
+
+Basit bubble sort → küçük sınıflar için uygun
+
+Quick sort / merge sort → büyük veri setleri için hızlı
+
+Excel veya çevrimiçi tablo kullanmak → manuel ama hızlı çözüm
+
+
+Bu algoritma ChatGPT (GPT-5) yardımıyla hazırlanmıştır.
+ChatGPT, adımların sıralanması ve alternatif sıralama yöntemlerinin belirlenmesinde rehberlik etmiştir.
+Öğrenci adımları düzenleyip kendi yorumunu eklemiştir.
