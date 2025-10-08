@@ -48,6 +48,11 @@ Bu algoritma, ChatGPT’den alınan yönlendirmeler doğrultusunda hazırlanmı�
 Yapay zekâdan fikir alınmış, adımlar öğrenci tarafından düzenlenmiştir.
 
 
+LLM Sorduğum soru:
+
+Mükemmel omlet algoritması
+
+
 Alternatif Çözüm Yolları
 
 Mikrodalgada omlet yapılabilir.
